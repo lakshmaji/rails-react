@@ -74,3 +74,5 @@ end
 gem "inertia_rails", "~> 3.0"
 
 gem "vite_rails", "~> 3.0"
+
+gem "faker", "~> 2.23"
